@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://solar.webart.work/sitemap.xml
+Sitemap: https://solar.hotelup.work/sitemap.xml
